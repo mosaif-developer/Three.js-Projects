@@ -9,9 +9,6 @@ Currently, two official plugins are available:
 
   #Description
 
- 
-Certainly! Here's a more professional description of your project:
-
 I have successfully implemented a sophisticated lamp utilizing the Three.js library in conjunction with ReactJS, seamlessly blending the capabilities of 3D modeling and dynamic user interfaces. This innovative creation allows users to toggle the lamp between an illuminated state, characterized by a warm and inviting yellow light, and a deactivated state, where a crisp white light subtly enhances the surrounding environment.
 
 The integration of Three.js provides a robust foundation for rendering intricate 3D models, while ReactJS ensures a seamless and responsive user experience. The lamp's dynamic behavior, transitioning between states with distinct lighting characteristics, not only showcases the synergy between these two powerful technologies but also delivers an engaging and visually appealing user interaction.
